@@ -1,0 +1,52 @@
+{
+    "translation": {
+        "introduction": "Introdução",
+        "skills": "Habilidades",
+        "works": "Trabalhos",
+        "services": "Serviços",
+        "contact": "Contato",
+        "Hi, I'm" : "Olá, me chamo",
+        "I'm a Front-End developer...": "Sou um Desenvolvedor Front-End, venho construindo projetos pessoais há um ano, e meu objetivo é ajudar pessoas com as minhas habilidades",
+        "Completed projects": "Projetos concluídos",
+        "typeWriter":["Desenvolvedor Front-End", "Criativo", "Web designer", "Trabalho como Freelancer"],
+        "What is the secret": "Qual a melhor forma para ",
+        "mastering": "dominar ",
+        "development": "desenvolvimento ?",
+        "Practicing" : "Praticando",
+        "the best way to": ", a melhor forma de realmente entender Desenvolvimento de Software é colocando em prática o que você aprendeu, através de projetos pessoais ou até mesmo ajudando outros em projetos open source. 😉",
+        "Technologies studied": "Tecnologias estudadas",
+        "Sort by:" : "Filtre por:",
+        "Complexity": "Complexidade",
+        "Some of my services": "Serviços",
+        "Front-End / Website Development": "Front-End / Desenvolvimento de Website",
+        "I will help you Front": "Irei disponibilizar meus serviços que envolvem Desenvolvimento Front-End e criação de websites.",
+        "Landing Page Creation": "Criação de Landing Pages",
+        "I will help landing": "Irei ajudar você na criação de uma Landing Page perfeita e totalmente funcional do zero.",
+        "Soon I will work with e-commerce": "Em breve estarei trabalhando com e-commerce, fique ligado 😁",
+        "Lets work together ?": "Bora trabalhar junto ?",
+        "Do you have an idea ?": "Ta com alguma ideia ?",
+        "Lets get in contact !": "Bora entrar em contato !",
+        "Send": "Enviar",
+        "Title": "Título",
+        "Your email adress": "Seu endereço de email",
+        "Content": "Assunto",
+        "Your message must contain a subject": "A mensagem deve conter um título",
+        "Please, enter an Email": "Digite seu Email", 
+        "Invalid Email": "Email inválido",
+        "Please, enter the message": "Insira uma mensagem",
+        "Thank you for sending me": "Obrigado por me enviar essa mensagem, entrarei em contato assim que possível",
+        "Oops, it seems a problem occurred": "Eita, acho que deu ruim aqui, tenta de novo daqui a alguns minutos"
+
+
+
+
+
+
+
+
+
+
+
+
+    }
+}

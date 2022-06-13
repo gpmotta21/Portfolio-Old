@@ -1,0 +1,43 @@
+{
+    "translation": {
+        "introduction": "Introduction",
+        "skills": "Skills",
+        "works": "Works",
+        "services": "Services",
+        "contact": "Contact",
+        "Hi, I'm" : "Hi, I'm",
+        "I'm a Front-End developer...": "I'm a Front-End developer, I have been building personal projects for year now, and my goal is to help people with the skills that I have.",
+        "Completed projects": "Completed projects",
+        "typeWriter": ["Front-End developer", "Creative", "Web designer", "I work as a Freelancer"],
+        "What is the secret": "Whats is the secret to ",
+        "mastering": "mastering ",
+        "development": "development ?",
+        "Practicing" : "Practicing",
+        "the best way to": " ,the best way to really understand Software Development is by practicing what you learned  and making your own projects, or even helping others on open source projects. 😉",
+        "Technologies studied": "Technologies studied",
+        "Sort by:" : "Sort by:",
+        "Complexity": "Complexity",
+        "Some of my services": "Services",
+        "Front-End / Website Development": "Front-End / Website Development",
+        "I will help you Front": "I will provide my services that involve Front-End Development and website creation.",
+        "Landing Page Creation": "Landing Page creation",
+        "I will help landing": "I will help you on your journey to build a perfect and fully functional Landing Page from scratch.",
+        "Soon I will work with e-commerce": "Soon I be will working with e-commerce, stay tunned for more 😁",
+        "Lets work together ?": "Lets work together ?",
+        "Do you have an idea ?": "Do you have an idea ?",
+        "Lets get in contact !": "Lets get in contact !",
+        "Send": "Send",
+        "Title": "Title",
+        "Your email adress": "Your email adress",
+        "Content": "Content",
+        "Your message must contain a subject": "Your message must contain a subject",
+        "Please, enter an Email": "Please, enter an Email", 
+        "Invalid Email": "Invalid Email",
+        "Please, enter the message": "Please, enter the message",
+        "Thank you for sending me": "Thank you for sending me this message, I will answer you pretty soon",
+        "Oops, it seems a problem occurred": "Oops, it seems a problem occurred, please try again in a few minutes"
+
+
+
+    }
+}
